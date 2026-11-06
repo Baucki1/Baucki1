@@ -17,10 +17,10 @@ My hobbies and interests include programming, cyber security, self-hosting, netw
 
 ## 🚧 Work in progress
 Some projects I am doing right now (Nov 2026)
-- Selfhosted image metadata cleaner (Basically "Exiftool with a darkmode webinterface" but I am getting into a rabbit hole with PRNU, compression algs and wavelet transformations)
-- Weather station with indoor and outdoor nodes, LoRa, HA integration via MQTT, ESP32 and Wio-E5, solar+Li-ion power management, AS3935 and numerous other sensors (on a custom PCB)
-- Hyprland/eww Cyberpunk 2077 ricing (not the typical neon pink/cyan rice, but specifically the aesthetics of the yellow in-game interfaces)
-- Selfhosted scraping stack using Xray-core proxy protocols (VLESS-Reality/Hysteria2)
+- **Selfhosted image metadata cleaner** (Basically "Exiftool with a darkmode webinterface" but I am getting into a rabbit hole with PRNU, compression algs and wavelet transformations)
+- **Weather station** with indoor and outdoor nodes, LoRa, HA integration via MQTT, ESP32 and Wio-E5, solar+Li-ion power management, AS3935 and numerous other sensors (on a custom PCB)
+- **Hyprland/eww Cyberpunk 2077 ricing** (not the typical neon pink/cyan rice, but specifically the aesthetics of the yellow in-game interfaces)
+- **Selfhosted scraping stack** using Xray-core proxy protocols (VLESS-Reality/Hysteria2)
 
 ## 📈 Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Baucki1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Baucki1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Baucki1&layout=compact&langs_count=8&hide_values=true&hide=jupyter%20notebook,tex,html&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Baucki1&layout=compact&langs_count=8&hide_values=true&hide=jupyter%20notebook,tex,html&theme=dark_github)
