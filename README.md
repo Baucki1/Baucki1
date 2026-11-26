@@ -8,7 +8,7 @@ I am working on searches for long-lived particles decaying in the calorimeters o
 
 Apart from that, I'm also exploring 4D tracking at future colliders utilizing different machine learning concepts like metric learning models, object condensation and transformers.
 
-## 🛠️ Hobbies
+## 🛠️ More interesting things
 Outside Particle Physics I like to work on my private projects.
 I'm a huge fan of all DIY projects and I like to do as much as possible myself.
 The goal is not necessarily to make something useful but to learn something new or get into a related topic, a tool, etc.
